@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698080015276",
+    "project_id": "smartshop-counter",
+    "storage_bucket": "smartshop-counter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698080015276:android:af8c5a3ba82a0c44108009",
+        "android_client_info": {
+          "package_name": "com.example.rtobjectdetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg3tAJ5FeH555Tl1cw8J6nYtOpIgPunz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
